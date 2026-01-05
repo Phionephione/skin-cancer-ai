@@ -3,6 +3,6 @@ torchvision
 streamlit
 pillow
 numpy
-opencv-python
+opencv-python-headless
 matplotlib
 fpdf2
