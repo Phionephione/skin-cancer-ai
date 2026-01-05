@@ -1,7 +1,8 @@
---extra-index-url https://download.pytorch.org/whl/cu121
 torch
 torchvision
-torchaudio
-matplotlib
+streamlit
 pillow
-pandas
+numpy
+opencv-python
+matplotlib
+fpdf2
